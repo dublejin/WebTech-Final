@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+	color: #eee;
+	background: #c9c0c0;
+	font-family:'Lato'; 
+	justify-content: space-around;
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	}
+.checkout-btn {
+	text-decoration: none;
+	background: #224;
+	color: #eee;
+	padding: 5px 20px;
+	border: 1px solid #eee;
+	border-radius: 10px/20px;
+	margin: 20px 10px 0 10px;
+	font-size: 18px;
+}
+
